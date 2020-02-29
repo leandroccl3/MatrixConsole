@@ -1,0 +1,8 @@
+C:\Users\c.lcri\source\repos\MatrixConsole\MatrixConsole\bin\Debug\MatrixConsole.exe.config
+C:\Users\c.lcri\source\repos\MatrixConsole\MatrixConsole\bin\Debug\MatrixConsole.exe
+C:\Users\c.lcri\source\repos\MatrixConsole\MatrixConsole\bin\Debug\MatrixConsole.pdb
+C:\Users\c.lcri\source\repos\MatrixConsole\MatrixConsole\obj\Debug\MatrixConsole.csprojAssemblyReference.cache
+C:\Users\c.lcri\source\repos\MatrixConsole\MatrixConsole\obj\Debug\MatrixConsole.exe
+C:\Users\c.lcri\source\repos\MatrixConsole\MatrixConsole\obj\Debug\MatrixConsole.pdb
+C:\Users\leand\Desktop\MatrixConsole\MatrixConsole\obj\Debug\MatrixConsole.exe
+C:\Users\leand\Desktop\MatrixConsole\MatrixConsole\obj\Debug\MatrixConsole.pdb
