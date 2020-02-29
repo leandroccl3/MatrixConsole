@@ -16,7 +16,7 @@ namespace MatrixConsole //nombre del programa
             int salario = 20000;
             double inflacion = 56.25;
             bool dinero = false;
-            string nombre = "Leandro";
+            string nombre = "Leandro Cesar Cristobal Lombardi";
                         //dinamic trata de adivinar que tipo de dato es
             Console.WriteLine("El valor de la edad es " +edad +" y su salario es " +salario +" el valor de la inflación es " +inflacion + " y la persona " + dinero + " plata y su nombre es " +nombre);
             Console.ReadKey();
