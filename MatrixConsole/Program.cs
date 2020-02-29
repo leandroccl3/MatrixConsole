@@ -10,7 +10,7 @@ namespace MatrixConsole //nombre del programa
     {
         static void Main(string[] args) //nombre del método (este es el principal)
         {
-            /*byte edad = 20;
+            byte edad = 20;
             //edad = Convert.ToByte(edad + 10); 
             edad += 20;// esta linea es equivalente a la linea superior, solo que utilizando el operador de asignación
             int salario = 20000;
@@ -19,7 +19,7 @@ namespace MatrixConsole //nombre del programa
             string nombre = "Leandro";
                         //dinamic trata de adivinar que tipo de dato es
             Console.WriteLine("El valor de la edad es " +edad +" y su salario es " +salario +" el valor de la inflación es " +inflacion + " y la persona " + dinero + " plata y su nombre es " +nombre);
-            Console.ReadKey();*/
+            Console.ReadKey();
 
             double bas, exponente, potencia;
 
