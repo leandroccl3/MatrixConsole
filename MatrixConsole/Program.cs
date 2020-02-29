@@ -21,7 +21,7 @@ namespace MatrixConsole //nombre del programa
             Console.WriteLine("El valor de la edad es " +edad +" y su salario es " +salario +" el valor de la inflación es " +inflacion + " y la persona " + dinero + " plata y su nombre es " +nombre);
             Console.ReadKey();*/
 
-            /*double bas, exponente, potencia;
+            double bas, exponente, potencia;
 
             Console.WriteLine("Indique la base: ");
             bas = Convert.ToDouble(Console.ReadLine());
@@ -31,7 +31,7 @@ namespace MatrixConsole //nombre del programa
 
             potencia = Math.Pow(bas, exponente);
             Console.WriteLine("El valor de la potencia es: " +potencia);
-            Console.ReadKey();*/
+            Console.ReadKey();
             double peso;
             Console.Write("Ingrese su peso en kilogramos: ");
             peso = Convert.ToDouble(Console.ReadLine());
@@ -47,4 +47,3 @@ namespace MatrixConsole //nombre del programa
     
     }
 }
-E
